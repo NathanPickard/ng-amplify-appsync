@@ -1,0 +1,14 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "ng-amplify-appsync-dev-20191009164313-authRole",
+            "UnauthRoleArn": "arn:aws:iam::854875202353:role/ng-amplify-appsync-dev-20191009164313-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::854875202353:role/ng-amplify-appsync-dev-20191009164313-authRole",
+            "Region": "us-west-2",
+            "DeploymentBucketName": "ng-amplify-appsync-dev-20191009164313-deployment",
+            "UnauthRoleName": "ng-amplify-appsync-dev-20191009164313-unauthRole",
+            "StackName": "ng-amplify-appsync-dev-20191009164313",
+            "StackId": "arn:aws:cloudformation:us-west-2:854875202353:stack/ng-amplify-appsync-dev-20191009164313/8f4ec150-eaee-11e9-9d4c-0a5d164d0af8"
+        }
+    }
+}
